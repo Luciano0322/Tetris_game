@@ -1,2 +1,3 @@
 # Tetris_game
-React to build
+React to build this game
+
